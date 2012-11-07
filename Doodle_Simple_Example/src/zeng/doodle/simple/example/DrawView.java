@@ -28,7 +28,7 @@ public class DrawView extends View implements OnTouchListener {
 
         this.setOnTouchListener(this);
 
-        paint.setColor(Color.WHITE);
+        paint.setColor(Color.RED);
         paint.setAntiAlias(true);
     }
 
